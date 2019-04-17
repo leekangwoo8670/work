@@ -17,7 +17,7 @@ namespace _2nd_project
             InitializeComponent();
             this.AutoSizeMode = AutoSizeMode.GrowAndShrink;
         }
-        //===================
+        //=================== TEST 추가
         private Point mousePoint;
         private void form_MouseDown(object sender, MouseEventArgs e)
         {
