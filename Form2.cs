@@ -24,7 +24,7 @@ namespace _2nd_project
             InitializeComponent();
         }
 
-
+     // 주석추가
         private void backform1_Click(object sender, EventArgs e)  //뒤로가기 from1으로 전환
         {
             backform();
